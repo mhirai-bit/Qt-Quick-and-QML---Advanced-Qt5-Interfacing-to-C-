@@ -1,0 +1,10 @@
+debug/appwrapper.o
+debug/datasource.o
+debug/joke.o
+debug/jokemodel.o
+debug/main.o
+debug/qrc_qml.o
+debug/moc_appwrapper.o
+debug/moc_datasource.o
+debug/moc_joke.o
+debug/moc_jokemodel.o

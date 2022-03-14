@@ -1,0 +1,10 @@
+release/appwrapper.o
+release/datasource.o
+release/joke.o
+release/jokemodel.o
+release/main.o
+release/qrc_qml.o
+release/moc_appwrapper.o
+release/moc_datasource.o
+release/moc_joke.o
+release/moc_jokemodel.o
